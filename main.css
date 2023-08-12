@@ -1652,8 +1652,8 @@
     transform: none;
   }
   .container-1eFtFS::after {
-    content: "iluv mygf!";
-    position: absolute;
+    content: "";
+    position: fixed;
     top: 220px;
     bottom: 85px;
     right: 60px;
