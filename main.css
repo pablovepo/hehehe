@@ -1652,7 +1652,7 @@
     transform: none;
   }
   .container-1eFtFS::after {
-    content: "";
+    content: "Stay comfy";
     position: fixed;
     top: 220px;
     bottom: 85px;
@@ -1670,7 +1670,7 @@
     overflow: hidden;
   }
   .container-1eFtFS::before {
-    content: "";
+    content: "i luv my gf";
     position: fixed;
     top: 220px;
     bottom: 85px;
